@@ -1,0 +1,55 @@
+Ajisth Sharma
+9458220300
+ajisths497@gmail.com
+LinkedIn:- www.linkedin.com/in/ajisth-sharma-403b16384
+GitHub:- https://github.com/ajisthsharma
+LeetCode:- https://leetcode.com/u/ajisth_sharma/
+Bachelor of Technology(BTech) - Computer Science Engineering(AIML)
+Noida Institute Of Engineering and Technology
+2025-2029
+SGPA:- 9.63
+Tech skills:- Python, C++, AI Prompting, Gen AI tools, HTML, CSS
+
+Project:-
+	1. AISA (Adaptive Intelligent Student Assistant) | AI-Powered EdTech Platform (Ongoing)
+		* Building an AI-powered student learning platform with personalized recommendations, adaptive assessments, and progress analytics.
+		* Features:- coding skill tracking, industry-readiness scoring, wellness monitoring, and automated performance reports.
+		* Tech Stack:- Next.js, FastAPI, PostgreSQL, TypeScript, AI/LLM APIs.
+
+	2. Kindness Generator
+		* A responsive, single-page web app that delivers motivational kindness reminders with a production-grade frontend engine. 
+		* Features:- weighted randomness algorithm(prioritising unseen quotes), 5-star adaptive rating system, daily streak tracking, mood-based filtering, Web Share API integration, 			     real-time analytics dashboard, favourites management, animated starfield UI and custom cursor.
+		* Tech Stack:- HTML5 , CSS3 , Vanilla JavaScript (ES6+) , Web Storage API (localStorage) , Web Share API , Canvas API , Google Fonts
+
+	3. Breathe Easy – AI-Powered Air Quality & Health Awareness Platform
+
+		* Developed a responsive web platform that monitors air quality conditions and provides users with real-time environmental insights, health recommendations, and awareness 		  resources. Integrated interactive dashboards, modern UI/UX, and data-driven visualizations to help users make informed decisions for healthier living.
+		* Key Features: Real-time AQI monitoring, health recommendations, interactive dashboards, responsive design, and environmental awareness tools.
+		* Tech Stack: React.js, JavaScript, Tailwind CSS, Vercel
+
+	4. RAIDPS – Real-Time AI Impersonation Detection & Prevention System (Idea till now)
+		* An AI-powered real-time deepfake detection platform that analyzes voice, video, and behavioral patterns to identify impersonation attacks during live interactions. 			  Implemented multimodal AI models and risk-scoring mechanisms for enhanced digital trust and fraud prevention.	
+		* Key Features: Real-time deepfake detection, multimodal AI analysis, voice cloning identification, facial anomaly detection, risk scoring engine, fraud alerts, forensic 		   		reporting, and enterprise API integration.
+		* Tech Stack: React.js, FastAPI, TensorFlow, OpenCV, AWS/GCP (Will use)
+
+	5. Student Database Management System
+		*Developed a console-based Student Database Management System for managing student records with persistent storage, demonstrating the practical application of OOP concepts, 		 file handling, and data management techniques.
+		* Key Features: CRUD operations for student records, file-based persistent data storage, search and update functionality, menu-driven command-line interface, object-					oriented architecture for modularity and maintainability, Git-based version control and project tracking.
+		* *Tech Stack: Python, Object-Oriented Programming (OOP),Tkinter, File Handling, pickle, os, Git, GitHub
+
+Achievements:-
+	-> Solved 200+ problems on LeetCode.
+	-> Earned 50 Days of Consistency badge on LeetCode.
+	-> Built 3+ full-stack projects.
+	-> Hack on Titan (by GFG) Finalist
+	-> Glitch & Giggle Finalist
+
+Certification:-
+	-> JavaScript (Infosys springboard)
+	-> Next Gen Technologies (Infosys Springboard)
+	-> Introduction to Modern AI (Cisco)
+	-> Introduction to Cybersecurity (Cisco)
+	-> Python Fundamentals using Python Part II (Infosys Springboard)
+	-> The Complete English Grammar Course (Udemy)
+	-> Master Gen AI & Gen AI Tools (Udemy)
+

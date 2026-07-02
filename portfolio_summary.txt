@@ -1,0 +1,7 @@
+STOCK PORTFOLIO SUMMARY
+=======================
+TSLA: 5 shares x $250 = $1,250
+AMZN: 10 shares x $190 = $1,900
+-----------------------
+
+Total Investment Value: $3,150

@@ -1,0 +1,9 @@
+EXTRACTED EMAILS FROM: extracted_from_Ajisth Sharma.txt
+Total Unique Emails Found: 1
+=========================================
+
+--- EMAIL LIST ---
+ajisths497@gmail.com
+
+--- TOP DOMAINS Breakdown ---
+gmail.com: Found 1 time(s)
